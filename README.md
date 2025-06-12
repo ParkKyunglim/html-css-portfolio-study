@@ -1,4 +1,5 @@
 # html-css-portfolio-study
+![Image](https://github.com/user-attachments/assets/1301ddc5-44ca-4cab-8646-9bdf612312aa)
 📖 **강의 링크**: [포트폴리오 웹 사이트 클론코딩](https://academy.dream-coding.com/courses/portfolio)
 
 이 저장소는 드림코딩(Dream Coding) by 엘리의  
