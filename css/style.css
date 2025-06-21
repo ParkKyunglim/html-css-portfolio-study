@@ -182,6 +182,7 @@ button:focus {
     border-radius: 1rem;
     cursor: default;
     box-shadow: 4.0px 8.0px 8.0px rgba(0,0,0,0.38);
+    flex: 1;
 }
 
 .major__icon {
